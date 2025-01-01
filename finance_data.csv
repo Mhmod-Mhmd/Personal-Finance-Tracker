@@ -1,0 +1,367 @@
+date,amount,category,description
+01-01-2024,493,Expense,Gas
+02-01-2024,186,Expense,Restaurant
+03-01-2024,413,Expense,Utilities
+04-01-2024,427,Expense,Books
+05-01-2024,1556,Income,Bonus
+06-01-2024,56,Expense,Coffee
+07-01-2024,640,Income,Bonus
+08-01-2024,887,Income,Salary
+09-01-2024,436,Expense,Coffee
+10-01-2024,29,Expense,Groceries
+11-01-2024,207,Expense,Books
+12-01-2024,235,Expense,Stationery
+13-01-2024,330,Expense,Clothing
+14-01-2024,47,Expense,Utilities
+15-01-2024,519,Income,Salary
+16-01-2024,235,Expense,Stationery
+17-01-2024,1016,Income,Stock Dividends
+18-01-2024,876,Income,Salary
+19-01-2024,1968,Income,Bonus
+20-01-2024,239,Expense,Utilities
+21-01-2024,434,Income,Stock Dividends
+22-01-2024,938,Income,Stock Dividends
+23-01-2024,961,Income,Salary
+24-01-2024,472,Expense,Coffee
+25-01-2024,956,Income,Freelance Work
+26-01-2024,367,Expense,Clothing
+27-01-2024,413,Income,Salary
+28-01-2024,249,Expense,Clothing
+29-01-2024,983,Income,Stock Dividends
+30-01-2024,1464,Income,Stock Dividends
+31-01-2024,1563,Income,Salary
+01-02-2024,1805,Income,Salary
+02-02-2024,690,Income,Bonus
+03-02-2024,709,Income,Freelance Work
+04-02-2024,250,Expense,Groceries
+05-02-2024,343,Expense,Gas
+06-02-2024,236,Expense,Entertainment
+07-02-2024,221,Expense,Gas
+08-02-2024,1207,Income,Freelance Work
+09-02-2024,1788,Income,Stock Dividends
+10-02-2024,438,Income,Stock Dividends
+11-02-2024,1231,Income,Bonus
+12-02-2024,191,Expense,Books
+13-02-2024,1675,Income,Salary
+14-02-2024,150,Expense,Clothing
+15-02-2024,256,Expense,Stationery
+16-02-2024,240,Expense,Coffee
+17-02-2024,1749,Income,Salary
+18-02-2024,690,Income,Freelance Work
+19-02-2024,290,Expense,Entertainment
+20-02-2024,1838,Income,Stock Dividends
+21-02-2024,279,Expense,Gas
+22-02-2024,1282,Income,Freelance Work
+23-02-2024,1544,Income,Freelance Work
+24-02-2024,384,Expense,Books
+25-02-2024,1165,Income,Salary
+26-02-2024,285,Expense,Coffee
+27-02-2024,1403,Income,Salary
+28-02-2024,1616,Income,Bonus
+29-02-2024,932,Income,Salary
+01-03-2024,1761,Income,Bonus
+02-03-2024,303,Income,Stock Dividends
+03-03-2024,184,Expense,Books
+04-03-2024,377,Expense,Utilities
+05-03-2024,767,Income,Bonus
+06-03-2024,462,Expense,Snacks
+07-03-2024,1607,Income,Stock Dividends
+08-03-2024,927,Income,Salary
+09-03-2024,236,Expense,Groceries
+10-03-2024,273,Expense,Utilities
+11-03-2024,1299,Income,Stock Dividends
+12-03-2024,939,Income,Stock Dividends
+13-03-2024,322,Income,Stock Dividends
+14-03-2024,459,Expense,Transport
+15-03-2024,121,Expense,Coffee
+16-03-2024,989,Income,Salary
+17-03-2024,408,Expense,Utilities
+18-03-2024,706,Income,Bonus
+19-03-2024,406,Expense,Groceries
+20-03-2024,1407,Income,Salary
+21-03-2024,184,Expense,Books
+22-03-2024,447,Expense,Coffee
+23-03-2024,372,Income,Salary
+24-03-2024,357,Income,Freelance Work
+25-03-2024,383,Expense,Gas
+26-03-2024,972,Income,Stock Dividends
+27-03-2024,763,Income,Stock Dividends
+28-03-2024,115,Expense,Coffee
+29-03-2024,173,Expense,Books
+30-03-2024,1508,Income,Freelance Work
+31-03-2024,325,Income,Salary
+01-04-2024,359,Income,Stock Dividends
+02-04-2024,147,Expense,Coffee
+03-04-2024,1047,Income,Salary
+04-04-2024,1920,Income,Stock Dividends
+05-04-2024,1050,Income,Salary
+06-04-2024,459,Income,Salary
+07-04-2024,27,Expense,Stationery
+08-04-2024,941,Income,Freelance Work
+09-04-2024,151,Expense,Transport
+10-04-2024,173,Expense,Utilities
+11-04-2024,125,Expense,Restaurant
+12-04-2024,312,Expense,Gas
+13-04-2024,52,Expense,Stationery
+14-04-2024,569,Income,Stock Dividends
+15-04-2024,1723,Income,Freelance Work
+16-04-2024,499,Expense,Coffee
+17-04-2024,570,Income,Bonus
+18-04-2024,1847,Income,Salary
+19-04-2024,840,Income,Stock Dividends
+20-04-2024,784,Income,Stock Dividends
+21-04-2024,1630,Income,Salary
+22-04-2024,1955,Income,Bonus
+23-04-2024,1814,Income,Freelance Work
+24-04-2024,189,Expense,Gas
+25-04-2024,363,Expense,Clothing
+26-04-2024,388,Expense,Clothing
+27-04-2024,475,Expense,Entertainment
+28-04-2024,149,Expense,Gas
+29-04-2024,297,Expense,Snacks
+30-04-2024,169,Expense,Coffee
+01-05-2024,1044,Income,Salary
+02-05-2024,152,Expense,Restaurant
+03-05-2024,82,Expense,Books
+04-05-2024,229,Expense,Books
+05-05-2024,341,Expense,Gas
+06-05-2024,179,Expense,Gas
+07-05-2024,1353,Income,Bonus
+08-05-2024,140,Expense,Groceries
+09-05-2024,313,Expense,Utilities
+10-05-2024,49,Expense,Stationery
+11-05-2024,160,Expense,Stationery
+12-05-2024,521,Income,Stock Dividends
+13-05-2024,199,Expense,Entertainment
+14-05-2024,336,Expense,Utilities
+15-05-2024,431,Income,Stock Dividends
+16-05-2024,342,Expense,Restaurant
+17-05-2024,245,Income,Bonus
+18-05-2024,1695,Income,Bonus
+19-05-2024,1843,Income,Freelance Work
+20-05-2024,1675,Income,Stock Dividends
+21-05-2024,341,Expense,Coffee
+22-05-2024,805,Income,Stock Dividends
+23-05-2024,322,Expense,Utilities
+24-05-2024,1977,Income,Salary
+25-05-2024,119,Expense,Groceries
+26-05-2024,1182,Income,Stock Dividends
+27-05-2024,482,Expense,Books
+28-05-2024,509,Income,Bonus
+29-05-2024,1904,Income,Bonus
+30-05-2024,183,Expense,Groceries
+31-05-2024,378,Expense,Utilities
+01-06-2024,460,Expense,Coffee
+02-06-2024,13,Expense,Gas
+03-06-2024,1383,Income,Salary
+04-06-2024,1725,Income,Stock Dividends
+05-06-2024,195,Expense,Restaurant
+06-06-2024,496,Expense,Groceries
+07-06-2024,1713,Income,Bonus
+08-06-2024,724,Income,Stock Dividends
+09-06-2024,1790,Income,Bonus
+10-06-2024,794,Income,Stock Dividends
+11-06-2024,307,Expense,Entertainment
+12-06-2024,1958,Income,Bonus
+13-06-2024,1890,Income,Freelance Work
+14-06-2024,360,Expense,Snacks
+15-06-2024,119,Expense,Utilities
+16-06-2024,317,Expense,Utilities
+17-06-2024,251,Expense,Restaurant
+18-06-2024,724,Income,Salary
+19-06-2024,1035,Income,Freelance Work
+20-06-2024,193,Expense,Utilities
+21-06-2024,283,Expense,Stationery
+22-06-2024,421,Income,Freelance Work
+23-06-2024,390,Income,Salary
+24-06-2024,1306,Income,Freelance Work
+25-06-2024,455,Expense,Transport
+26-06-2024,1778,Income,Bonus
+27-06-2024,410,Expense,Clothing
+28-06-2024,249,Expense,Utilities
+29-06-2024,330,Expense,Clothing
+30-06-2024,361,Expense,Coffee
+01-07-2024,54,Expense,Groceries
+02-07-2024,277,Expense,Coffee
+03-07-2024,877,Income,Bonus
+04-07-2024,437,Expense,Groceries
+05-07-2024,364,Income,Salary
+06-07-2024,17,Expense,Entertainment
+07-07-2024,388,Expense,Coffee
+08-07-2024,77,Expense,Utilities
+09-07-2024,285,Expense,Restaurant
+10-07-2024,469,Income,Freelance Work
+11-07-2024,300,Expense,Restaurant
+12-07-2024,1557,Income,Bonus
+13-07-2024,1382,Income,Bonus
+14-07-2024,54,Expense,Utilities
+15-07-2024,53,Expense,Entertainment
+16-07-2024,54,Expense,Gas
+17-07-2024,304,Expense,Transport
+18-07-2024,886,Income,Bonus
+19-07-2024,1808,Income,Bonus
+20-07-2024,150,Expense,Stationery
+21-07-2024,310,Expense,Coffee
+22-07-2024,450,Expense,Restaurant
+23-07-2024,287,Expense,Stationery
+24-07-2024,1033,Income,Stock Dividends
+25-07-2024,1217,Income,Freelance Work
+26-07-2024,274,Expense,Stationery
+27-07-2024,1898,Income,Salary
+28-07-2024,349,Income,Salary
+29-07-2024,485,Expense,Stationery
+30-07-2024,108,Expense,Stationery
+31-07-2024,73,Expense,Books
+01-08-2024,88,Expense,Entertainment
+02-08-2024,1757,Income,Salary
+03-08-2024,1083,Income,Stock Dividends
+04-08-2024,1952,Income,Bonus
+05-08-2024,1466,Income,Bonus
+06-08-2024,1934,Income,Bonus
+07-08-2024,76,Expense,Books
+08-08-2024,407,Expense,Snacks
+09-08-2024,234,Expense,Clothing
+10-08-2024,807,Income,Salary
+11-08-2024,331,Expense,Entertainment
+12-08-2024,308,Income,Freelance Work
+13-08-2024,409,Expense,Groceries
+14-08-2024,408,Expense,Restaurant
+15-08-2024,14,Expense,Snacks
+16-08-2024,280,Expense,Entertainment
+17-08-2024,1819,Income,Salary
+18-08-2024,235,Expense,Groceries
+19-08-2024,1918,Income,Stock Dividends
+20-08-2024,386,Income,Bonus
+21-08-2024,497,Income,Freelance Work
+22-08-2024,101,Expense,Entertainment
+23-08-2024,187,Expense,Entertainment
+24-08-2024,159,Expense,Restaurant
+25-08-2024,1182,Income,Stock Dividends
+26-08-2024,14,Expense,Utilities
+27-08-2024,1311,Income,Freelance Work
+28-08-2024,44,Expense,Transport
+29-08-2024,48,Expense,Clothing
+30-08-2024,221,Income,Freelance Work
+31-08-2024,411,Expense,Clothing
+01-09-2024,473,Expense,Books
+02-09-2024,308,Expense,Clothing
+03-09-2024,1151,Income,Stock Dividends
+04-09-2024,213,Expense,Utilities
+05-09-2024,367,Expense,Clothing
+06-09-2024,205,Expense,Clothing
+07-09-2024,316,Income,Bonus
+08-09-2024,405,Expense,Gas
+09-09-2024,69,Expense,Coffee
+10-09-2024,1639,Income,Salary
+11-09-2024,1100,Income,Freelance Work
+12-09-2024,520,Income,Stock Dividends
+13-09-2024,1161,Income,Freelance Work
+14-09-2024,312,Expense,Coffee
+15-09-2024,459,Expense,Entertainment
+16-09-2024,648,Income,Stock Dividends
+17-09-2024,389,Expense,Gas
+18-09-2024,327,Income,Salary
+19-09-2024,465,Expense,Coffee
+20-09-2024,480,Expense,Groceries
+21-09-2024,1652,Income,Freelance Work
+22-09-2024,363,Expense,Restaurant
+23-09-2024,1162,Income,Freelance Work
+24-09-2024,1982,Income,Salary
+25-09-2024,372,Income,Salary
+26-09-2024,1796,Income,Bonus
+27-09-2024,450,Expense,Clothing
+28-09-2024,377,Expense,Gas
+29-09-2024,308,Expense,Clothing
+30-09-2024,1880,Income,Bonus
+01-10-2024,58,Expense,Snacks
+02-10-2024,430,Expense,Transport
+03-10-2024,651,Income,Freelance Work
+04-10-2024,1341,Income,Salary
+05-10-2024,319,Expense,Clothing
+06-10-2024,1996,Income,Stock Dividends
+07-10-2024,287,Expense,Utilities
+08-10-2024,485,Expense,Groceries
+09-10-2024,396,Expense,Books
+10-10-2024,718,Income,Freelance Work
+11-10-2024,133,Expense,Transport
+12-10-2024,245,Expense,Entertainment
+13-10-2024,686,Income,Salary
+14-10-2024,323,Expense,Coffee
+15-10-2024,148,Expense,Coffee
+16-10-2024,491,Income,Freelance Work
+17-10-2024,1178,Income,Salary
+18-10-2024,809,Income,Freelance Work
+19-10-2024,365,Expense,Snacks
+20-10-2024,319,Expense,Groceries
+21-10-2024,857,Income,Bonus
+22-10-2024,1414,Income,Salary
+23-10-2024,1741,Income,Bonus
+24-10-2024,1890,Income,Freelance Work
+25-10-2024,923,Income,Freelance Work
+26-10-2024,769,Income,Stock Dividends
+27-10-2024,601,Income,Stock Dividends
+28-10-2024,253,Expense,Gas
+29-10-2024,462,Expense,Snacks
+30-10-2024,1122,Income,Stock Dividends
+31-10-2024,376,Expense,Gas
+01-11-2024,1687,Income,Freelance Work
+02-11-2024,347,Expense,Groceries
+03-11-2024,934,Income,Salary
+04-11-2024,1839,Income,Stock Dividends
+05-11-2024,1135,Income,Bonus
+06-11-2024,66,Expense,Groceries
+07-11-2024,1238,Income,Salary
+08-11-2024,233,Expense,Stationery
+09-11-2024,1726,Income,Bonus
+10-11-2024,384,Expense,Entertainment
+11-11-2024,378,Expense,Clothing
+12-11-2024,321,Expense,Clothing
+13-11-2024,426,Income,Salary
+14-11-2024,1859,Income,Stock Dividends
+15-11-2024,1601,Income,Freelance Work
+16-11-2024,605,Income,Bonus
+17-11-2024,498,Expense,Restaurant
+18-11-2024,301,Expense,Snacks
+19-11-2024,1160,Income,Bonus
+20-11-2024,348,Income,Salary
+21-11-2024,422,Income,Stock Dividends
+22-11-2024,274,Income,Stock Dividends
+23-11-2024,146,Expense,Entertainment
+24-11-2024,176,Expense,Stationery
+25-11-2024,492,Expense,Clothing
+26-11-2024,1915,Income,Salary
+27-11-2024,1800,Income,Stock Dividends
+28-11-2024,957,Income,Bonus
+29-11-2024,202,Expense,Utilities
+30-11-2024,355,Expense,Clothing
+01-12-2024,1425,Income,Salary
+02-12-2024,1346,Income,Bonus
+03-12-2024,263,Expense,Utilities
+04-12-2024,152,Expense,Coffee
+05-12-2024,377,Expense,Gas
+06-12-2024,682,Income,Stock Dividends
+07-12-2024,1541,Income,Salary
+08-12-2024,1536,Income,Freelance Work
+09-12-2024,521,Income,Salary
+10-12-2024,776,Income,Bonus
+11-12-2024,164,Expense,Coffee
+12-12-2024,283,Expense,Books
+13-12-2024,393,Expense,Entertainment
+14-12-2024,1492,Income,Bonus
+15-12-2024,45,Expense,Stationery
+16-12-2024,206,Expense,Clothing
+17-12-2024,986,Income,Stock Dividends
+18-12-2024,145,Expense,Restaurant
+19-12-2024,445,Expense,Coffee
+20-12-2024,1735,Income,Freelance Work
+21-12-2024,1824,Income,Salary
+22-12-2024,374,Expense,Coffee
+23-12-2024,441,Expense,Coffee
+24-12-2024,1570,Income,Freelance Work
+25-12-2024,807,Income,Salary
+26-12-2024,385,Expense,Coffee
+27-12-2024,1309,Income,Stock Dividends
+28-12-2024,416,Expense,Transport
+29-12-2024,244,Expense,Coffee
+30-12-2024,168,Expense,Restaurant
+31-12-2024,293,Expense,Groceries
